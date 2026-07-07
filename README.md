@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://amirgeektech.com">
+<a href="https://AmirGeekTech.online">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=E8672A&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Automation+Engineer;Network+%26+Security+Specialist;Linux+Administrator;Building+things+that+actually+ship." alt="Typing animation" />
 </a>
 
@@ -85,9 +85,9 @@ I'm **Amir Mohammad Mohammadi**, known online as **AmirGeek** — a software eng
 
 <div align="center">
 
-<a href="https://amirgeektech.com"><img src="https://img.shields.io/badge/Website-amirgeektech.com-e8672a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d0d0d" /></a>
-<a href="https://amirgeektech.com/resume.html"><img src="https://img.shields.io/badge/Resume-View%20Online-e8672a?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0d0d0d" /></a>
-<a href="https://amirgeektech.com/donation.html"><img src="https://img.shields.io/badge/Support-Donate-e8672a?style=for-the-badge&logo=kofi&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="https://AmirGeekTech.online"><img src="https://img.shields.io/badge/Website-AmirGeekTech.online-e8672a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="https://AmirGeekTech.online/resume.html"><img src="https://img.shields.io/badge/Resume-View%20Online-e8672a?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0d0d0d" /></a>
+<a href="https://AmirGeekTech.online/donation.html"><img src="https://img.shields.io/badge/Support-Donate-e8672a?style=for-the-badge&logo=kofi&logoColor=white&labelColor=0d0d0d" /></a>
 
 <br/>
 
@@ -109,6 +109,6 @@ I'm **Amir Mohammad Mohammadi**, known online as **AmirGeek** — a software eng
 <br/>
 
 <div align="center">
-<sub>Built with ❤️ and a lot of coffee · <a href="https://amirgeektech.com">amirgeektech.com</a></sub>
+<sub>Built with ❤️ and a lot of coffee · <a href="https://AmirGeekTech.online">AmirGeekTech.online</a></sub>
 </div>
 # AmirGeekTech
