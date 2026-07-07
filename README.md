@@ -60,12 +60,12 @@ I'm **Amir Mohammad Mohammadi**, known online as **AmirGeek** — a software eng
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=e8672a&icon_color=ff8a3d&text_color=c7c4bd&bg_color=0d0d0d" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=e8672a&text_color=c7c4bd&bg_color=0d0d0d" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmirGeekTech&show_icons=true&count_private=true&hide_border=true&title_color=e8672a&icon_color=ff8a3d&text_color=c7c4bd&bg_color=0d0d0d" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirGeekTech&layout=compact&hide_border=true&title_color=e8672a&text_color=c7c4bd&bg_color=0d0d0d" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D0D0D&ring=E8672A&fire=FF8A3D&currStreakLabel=E8672A" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirGeekTech&hide_border=true&background=0D0D0D&ring=E8672A&fire=FF8A3D&currStreakLabel=E8672A" />
 
 </div>
 
@@ -74,7 +74,7 @@ I'm **Amir Mohammad Mohammadi**, known online as **AmirGeek** — a software eng
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/AmirGeekTech/AmirGeekTech/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%"/>
 </div>
 
 > Generated automatically every day by the GitHub Action in `.github/workflows/snake.yml` — see the setup note below.
@@ -102,7 +102,7 @@ I'm **Amir Mohammad Mohammadi**, known online as **AmirGeek** — a software eng
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=e8672a&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=AmirGeekTech&color=e8672a&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
