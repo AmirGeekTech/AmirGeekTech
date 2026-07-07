@@ -60,8 +60,8 @@ I'm **Amir Mohammad Mohammadi**, known online as **AmirGeek** — a software eng
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmirGeekTech&show_icons=true&count_private=true&hide_border=true&title_color=e8672a&icon_color=ff8a3d&text_color=c7c4bd&bg_color=0d0d0d" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirGeekTech&layout=compact&hide_border=true&title_color=e8672a&text_color=c7c4bd&bg_color=0d0d0d" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmirGeekTech&show_icons=true&count_private=true&hide_border=true&title_color=e8672a&icon_color=ff8a3d&text_color=c7c4bd&bg_color=0d0d0d" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmirGeekTech&layout=compact&hide_border=true&title_color=e8672a&text_color=c7c4bd&bg_color=0d0d0d" />
 
 <br/>
 
