@@ -65,7 +65,7 @@ I'm **Amir Mohammad Mohammadi**, known online as **AmirGeek** — a software eng
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirGeekTech&hide_border=true&background=0D0D0D&ring=E8672A&fire=FF8A3D&currStreakLabel=E8672A" />
+<img src="https://streak-stats.demolab.com?user=AmirGeekTech&hide_border=true&background=0D0D0D&ring=E8672A&fire=FF8A3D&currStreakLabel=E8672A&stroke=333333&sideNums=C7C4BD&currStreakNum=FFFFFF&sideLabels=C7C4BD&dates=8B949E" />
 
 </div>
 
